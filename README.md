@@ -6,7 +6,7 @@
 ## Start coding
  * Copy and paste this into the lines:
    
-   " #include <iostream>
+   " include <iostream>
 using namespace std;
 
 int main() {
