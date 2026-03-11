@@ -5,8 +5,7 @@
 * Make sure that you choose C++ Programming coding app
 ## Start coding
  * Copy and paste this into the lines:
-
-#include <iostream>
+` #include <iostream>
 using namespace std;
 
 int main() {
@@ -32,4 +31,4 @@ int main() {
         cout<<"Invalid result";
        
 return 0;
-}
+} `
