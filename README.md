@@ -4,7 +4,8 @@
 ## Open a coding app
 * Make sure that you choose C++ Programming coding app
 ## Start coding
-Copy and paste this into the lines:
+ * Copy and paste this into the lines:
+   
    " #include <iostream>
 using namespace std;
 
